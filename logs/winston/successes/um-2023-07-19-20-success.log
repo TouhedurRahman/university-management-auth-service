@@ -1,0 +1,12 @@
+{
+  message: 'BD Connected successfully',
+  level: 'info',
+  label: 'info',
+  timestamp: '2023-07-19T14:45:13.341Z'
+}
+{
+  message: 'Application listening on port 5000',
+  level: 'info',
+  label: 'info',
+  timestamp: '2023-07-19T14:45:13.351Z'
+}
